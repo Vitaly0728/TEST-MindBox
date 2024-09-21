@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\TestMindbox\TestMindbox\TestMindbox\bin\Debug\net8.0\TestMindbox.exe
+C:\Users\1\source\repos\TestMindbox\TestMindbox\TestMindbox\bin\Debug\net8.0\TestMindbox.deps.json
+C:\Users\1\source\repos\TestMindbox\TestMindbox\TestMindbox\bin\Debug\net8.0\TestMindbox.runtimeconfig.json
+C:\Users\1\source\repos\TestMindbox\TestMindbox\TestMindbox\bin\Debug\net8.0\TestMindbox.dll
+C:\Users\1\source\repos\TestMindbox\TestMindbox\TestMindbox\bin\Debug\net8.0\TestMindbox.pdb
+C:\Users\1\source\repos\TestMindbox\TestMindbox\TestMindbox\obj\Debug\net8.0\TestMindbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\TestMindbox\TestMindbox\TestMindbox\obj\Debug\net8.0\TestMindbox.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\TestMindbox\TestMindbox\TestMindbox\obj\Debug\net8.0\TestMindbox.AssemblyInfo.cs
+C:\Users\1\source\repos\TestMindbox\TestMindbox\TestMindbox\obj\Debug\net8.0\TestMindbox.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\TestMindbox\TestMindbox\TestMindbox\obj\Debug\net8.0\TestMindbox.dll
+C:\Users\1\source\repos\TestMindbox\TestMindbox\TestMindbox\obj\Debug\net8.0\refint\TestMindbox.dll
+C:\Users\1\source\repos\TestMindbox\TestMindbox\TestMindbox\obj\Debug\net8.0\TestMindbox.pdb
+C:\Users\1\source\repos\TestMindbox\TestMindbox\TestMindbox\obj\Debug\net8.0\TestMindbox.genruntimeconfig.cache
+C:\Users\1\source\repos\TestMindbox\TestMindbox\TestMindbox\obj\Debug\net8.0\ref\TestMindbox.dll
